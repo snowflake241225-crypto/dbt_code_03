@@ -13,3 +13,4 @@ sources:
       - name: STG_STORES_DATA
       - name: STG_SUPPLIESS_DATA
       - name: emp
+      - name: customers
